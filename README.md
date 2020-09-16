@@ -1,12 +1,6 @@
-<html> 
-
- <head> 
-
-  <title>fast tutorials</title> 
-
-
- </head> 
-
+---
+layout: default
+---
 <body text= "#000000" background= "https://cdn.awsli.com.br/1000x1000/464/464644/produto/25269354/274a5b0f0b.jpg"> 
 
 <h1 align="center"> <font face= "Perpetua"> Fast tutorials </font> </h1><hr /> 
